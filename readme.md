@@ -138,6 +138,7 @@ MSE: 0.073
 4. Input feature values in the web interface to predict the stock `Close Price`.
 
 ---
+© 2025 MuraliKrishnaGR. All rights reserved.
 
 ## **Future Work**
 - Include Facebook (Meta) and Apple in Analysis: Extend the analysis by incorporating data from Facebook (Meta) and     Apple to cover all FAANG companies comprehensively.
